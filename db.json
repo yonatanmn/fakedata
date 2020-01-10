@@ -3,6 +3,7 @@
     {
       "id": "qweasdzxc",
       "user": "Yonatan",
+      "job_title": "Javascript developer",
       "recruiter": {
         "name": "Hen",
         "img": "https://i.ibb.co/qrx6sKT/image3.jpg"
@@ -35,6 +36,7 @@
     {
       "id": "rtyfghvbn",
       "user": "Noam",
+      "job_title": "AfterEffects designer",
       "recruiter": {
         "name": "Dani",
         "img": "https://i.ibb.co/z8qngY2/image.jpg"
@@ -53,6 +55,7 @@
     {
       "id": "uiojklnm",
       "user": "Yosef",
+      "job_title": "BizDev",
       "recruiter": {
         "name": "Hen",
         "img": "https://i.ibb.co/qrx6sKT/image3.jpg"
